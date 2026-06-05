@@ -1,0 +1,9 @@
+degrees-that-pay-back.csv
+
+.git/
+.gitignore
+
+analyse.R
+
+.Rhistory
+.Rproj.user
