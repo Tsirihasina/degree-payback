@@ -1,0 +1,201 @@
+undergraduate_major;starting_median_salary;mid_career_median_salary;percent_change_from_starting_to_mid_career_salary;mid_career_percentile_salary;value
+Accounting;46000;77100;67,6;10th Percentile;42200
+Accounting;46000;77100;67,6;25th Percentile;56100
+Accounting;46000;77100;67,6;75th Percentile;108000
+Accounting;46000;77100;67,6;90th Percentile;152000
+Aerospace Engineering;57700;101000;75,0;10th Percentile;64300
+Aerospace Engineering;57700;101000;75,0;25th Percentile;82100
+Aerospace Engineering;57700;101000;75,0;75th Percentile;127000
+Aerospace Engineering;57700;101000;75,0;90th Percentile;161000
+Agriculture;42600;71900;68,8;10th Percentile;36300
+Agriculture;42600;71900;68,8;25th Percentile;52100
+Agriculture;42600;71900;68,8;75th Percentile;96300
+Agriculture;42600;71900;68,8;90th Percentile;150000
+Anthropology;36800;61500;67,1;10th Percentile;33800
+Anthropology;36800;61500;67,1;25th Percentile;45500
+Anthropology;36800;61500;67,1;75th Percentile;89300
+Anthropology;36800;61500;67,1;90th Percentile;138000
+Architecture;41600;76800;84,6;10th Percentile;50600
+Architecture;41600;76800;84,6;25th Percentile;62200
+Architecture;41600;76800;84,6;75th Percentile;97000
+Architecture;41600;76800;84,6;90th Percentile;136000
+Art History;35800;64900;81,3;10th Percentile;28800
+Art History;35800;64900;81,3;25th Percentile;42200
+Art History;35800;64900;81,3;75th Percentile;87400
+Art History;35800;64900;81,3;90th Percentile;125000
+Biology;38800;64800;67,0;10th Percentile;36900
+Biology;38800;64800;67,0;25th Percentile;47400
+Biology;38800;64800;67,0;75th Percentile;94500
+Biology;38800;64800;67,0;90th Percentile;135000
+Business Management;43000;72100;67,7;10th Percentile;38800
+Business Management;43000;72100;67,7;25th Percentile;51500
+Business Management;43000;72100;67,7;75th Percentile;102000
+Business Management;43000;72100;67,7;90th Percentile;147000
+Chemical Engineering;63200;107000;69,3;10th Percentile;71900
+Chemical Engineering;63200;107000;69,3;25th Percentile;87300
+Chemical Engineering;63200;107000;69,3;75th Percentile;143000
+Chemical Engineering;63200;107000;69,3;90th Percentile;194000
+Chemistry;42600;79900;87,6;10th Percentile;45300
+Chemistry;42600;79900;87,6;25th Percentile;60700
+Chemistry;42600;79900;87,6;75th Percentile;108000
+Chemistry;42600;79900;87,6;90th Percentile;148000
+Civil Engineering;53900;90500;67,9;10th Percentile;63400
+Civil Engineering;53900;90500;67,9;25th Percentile;75100
+Civil Engineering;53900;90500;67,9;75th Percentile;115000
+Civil Engineering;53900;90500;67,9;90th Percentile;148000
+Communications;38100;70000;83,7;10th Percentile;37500
+Communications;38100;70000;83,7;25th Percentile;49700
+Communications;38100;70000;83,7;75th Percentile;98800
+Communications;38100;70000;83,7;90th Percentile;143000
+Computer Engineering;61400;105000;71,0;10th Percentile;66100
+Computer Engineering;61400;105000;71,0;25th Percentile;84100
+Computer Engineering;61400;105000;71,0;75th Percentile;135000
+Computer Engineering;61400;105000;71,0;90th Percentile;162000
+Computer Science;55900;95500;70,8;10th Percentile;56000
+Computer Science;55900;95500;70,8;25th Percentile;74900
+Computer Science;55900;95500;70,8;75th Percentile;122000
+Computer Science;55900;95500;70,8;90th Percentile;154000
+Construction;53700;88900;65,5;10th Percentile;56300
+Construction;53700;88900;65,5;25th Percentile;68100
+Construction;53700;88900;65,5;75th Percentile;118000
+Construction;53700;88900;65,5;90th Percentile;171000
+Criminal Justice;35000;56300;60,9;10th Percentile;32200
+Criminal Justice;35000;56300;60,9;25th Percentile;41600
+Criminal Justice;35000;56300;60,9;75th Percentile;80700
+Criminal Justice;35000;56300;60,9;90th Percentile;107000
+Drama;35900;56900;58,5;10th Percentile;36700
+Drama;35900;56900;58,5;25th Percentile;41300
+Drama;35900;56900;58,5;75th Percentile;79100
+Drama;35900;56900;58,5;90th Percentile;153000
+Economics;50100;98600;96,8;10th Percentile;50600
+Economics;50100;98600;96,8;25th Percentile;70600
+Economics;50100;98600;96,8;75th Percentile;145000
+Economics;50100;98600;96,8;90th Percentile;210000
+Education;34900;52000;49,0;10th Percentile;29300
+Education;34900;52000;49,0;25th Percentile;37900
+Education;34900;52000;49,0;75th Percentile;73400
+Education;34900;52000;49,0;90th Percentile;102000
+Electrical Engineering;60900;103000;69,1;10th Percentile;69300
+Electrical Engineering;60900;103000;69,1;25th Percentile;83800
+Electrical Engineering;60900;103000;69,1;75th Percentile;130000
+Electrical Engineering;60900;103000;69,1;90th Percentile;168000
+English;38000;64700;70,3;10th Percentile;33400
+English;38000;64700;70,3;25th Percentile;44800
+English;38000;64700;70,3;75th Percentile;93200
+English;38000;64700;70,3;90th Percentile;133000
+Film;37900;68500;80,7;10th Percentile;33900
+Film;37900;68500;80,7;25th Percentile;45500
+Film;37900;68500;80,7;75th Percentile;100000
+Film;37900;68500;80,7;90th Percentile;136000
+Finance;47900;88300;84,3;10th Percentile;47200
+Finance;47900;88300;84,3;25th Percentile;62100
+Finance;47900;88300;84,3;75th Percentile;128000
+Finance;47900;88300;84,3;90th Percentile;195000
+Forestry;39100;62600;60,1;10th Percentile;41000
+Forestry;39100;62600;60,1;25th Percentile;49300
+Forestry;39100;62600;60,1;75th Percentile;78200
+Forestry;39100;62600;60,1;90th Percentile;111000
+Geography;41200;65500;59,0;10th Percentile;40000
+Geography;41200;65500;59,0;25th Percentile;50000
+Geography;41200;65500;59,0;75th Percentile;90800
+Geography;41200;65500;59,0;90th Percentile;132000
+Geology;43500;79500;82,8;10th Percentile;45000
+Geology;43500;79500;82,8;25th Percentile;59600
+Geology;43500;79500;82,8;75th Percentile;101000
+Geology;43500;79500;82,8;90th Percentile;156000
+Graphic Design;35700;59800;67,5;10th Percentile;36000
+Graphic Design;35700;59800;67,5;25th Percentile;45500
+Graphic Design;35700;59800;67,5;75th Percentile;80800
+Graphic Design;35700;59800;67,5;90th Percentile;112000
+Health Care Administration;38800;60600;56,2;10th Percentile;34600
+Health Care Administration;38800;60600;56,2;25th Percentile;45600
+Health Care Administration;38800;60600;56,2;75th Percentile;78800
+Health Care Administration;38800;60600;56,2;90th Percentile;101000
+History;39200;71000;81,1;10th Percentile;37000
+History;39200;71000;81,1;25th Percentile;49200
+History;39200;71000;81,1;75th Percentile;103000
+History;39200;71000;81,1;90th Percentile;149000
+Hospitality & Tourism;37800;57500;52,1;10th Percentile;35500
+Hospitality & Tourism;37800;57500;52,1;25th Percentile;43600
+Hospitality & Tourism;37800;57500;52,1;75th Percentile;81900
+Hospitality & Tourism;37800;57500;52,1;90th Percentile;124000
+Industrial Engineering;57700;94700;64,1;10th Percentile;57100
+Industrial Engineering;57700;94700;64,1;25th Percentile;72300
+Industrial Engineering;57700;94700;64,1;75th Percentile;132000
+Industrial Engineering;57700;94700;64,1;90th Percentile;173000
+Information Technology (IT);49100;74800;52,3;10th Percentile;44500
+Information Technology (IT);49100;74800;52,3;25th Percentile;56700
+Information Technology (IT);49100;74800;52,3;75th Percentile;96700
+Information Technology (IT);49100;74800;52,3;90th Percentile;129000
+Interior Design;36100;53200;47,4;10th Percentile;35700
+Interior Design;36100;53200;47,4;25th Percentile;42600
+Interior Design;36100;53200;47,4;75th Percentile;72500
+Interior Design;36100;53200;47,4;90th Percentile;107000
+International Relations;40900;80900;97,8;10th Percentile;38200
+International Relations;40900;80900;97,8;25th Percentile;56000
+International Relations;40900;80900;97,8;75th Percentile;111000
+International Relations;40900;80900;97,8;90th Percentile;157000
+Journalism;35600;66700;87,4;10th Percentile;38400
+Journalism;35600;66700;87,4;25th Percentile;48300
+Journalism;35600;66700;87,4;75th Percentile;97700
+Journalism;35600;66700;87,4;90th Percentile;145000
+Management Information Systems (MIS);49200;82300;67,3;10th Percentile;45300
+Management Information Systems (MIS);49200;82300;67,3;25th Percentile;60500
+Management Information Systems (MIS);49200;82300;67,3;75th Percentile;108000
+Management Information Systems (MIS);49200;82300;67,3;90th Percentile;146000
+Marketing;40800;79600;95,1;10th Percentile;42100
+Marketing;40800;79600;95,1;25th Percentile;55600
+Marketing;40800;79600;95,1;75th Percentile;119000
+Marketing;40800;79600;95,1;90th Percentile;175000
+Math;45400;92400;103,5;10th Percentile;45200
+Math;45400;92400;103,5;25th Percentile;64200
+Math;45400;92400;103,5;75th Percentile;128000
+Math;45400;92400;103,5;90th Percentile;183000
+Mechanical Engineering;57900;93600;61,7;10th Percentile;63700
+Mechanical Engineering;57900;93600;61,7;25th Percentile;76200
+Mechanical Engineering;57900;93600;61,7;75th Percentile;120000
+Mechanical Engineering;57900;93600;61,7;90th Percentile;163000
+Music;35900;55000;53,2;10th Percentile;26700
+Music;35900;55000;53,2;25th Percentile;40200
+Music;35900;55000;53,2;75th Percentile;88000
+Music;35900;55000;53,2;90th Percentile;134000
+Nursing;54200;67000;23,6;10th Percentile;47600
+Nursing;54200;67000;23,6;25th Percentile;56400
+Nursing;54200;67000;23,6;75th Percentile;80900
+Nursing;54200;67000;23,6;90th Percentile;98300
+Nutrition;39900;55300;38,6;10th Percentile;33900
+Nutrition;39900;55300;38,6;25th Percentile;44500
+Nutrition;39900;55300;38,6;75th Percentile;70500
+Nutrition;39900;55300;38,6;90th Percentile;99200
+Philosophy;39900;81200;103,5;10th Percentile;35500
+Philosophy;39900;81200;103,5;25th Percentile;52800
+Philosophy;39900;81200;103,5;75th Percentile;127000
+Philosophy;39900;81200;103,5;90th Percentile;168000
+Physician Assistant;74300;91700;23,4;10th Percentile;66400
+Physician Assistant;74300;91700;23,4;25th Percentile;75200
+Physician Assistant;74300;91700;23,4;75th Percentile;108000
+Physician Assistant;74300;91700;23,4;90th Percentile;124000
+Physics;50300;97300;93,4;10th Percentile;56000
+Physics;50300;97300;93,4;25th Percentile;74200
+Physics;50300;97300;93,4;75th Percentile;132000
+Physics;50300;97300;93,4;90th Percentile;178000
+Political Science;40800;78200;91,7;10th Percentile;41200
+Political Science;40800;78200;91,7;25th Percentile;55300
+Political Science;40800;78200;91,7;75th Percentile;114000
+Political Science;40800;78200;91,7;90th Percentile;168000
+Psychology;35900;60400;68,2;10th Percentile;31600
+Psychology;35900;60400;68,2;25th Percentile;42100
+Psychology;35900;60400;68,2;75th Percentile;87500
+Psychology;35900;60400;68,2;90th Percentile;127000
+Religion;34100;52000;52,5;10th Percentile;29700
+Religion;34100;52000;52,5;25th Percentile;36500
+Religion;34100;52000;52,5;75th Percentile;70900
+Religion;34100;52000;52,5;90th Percentile;96400
+Sociology;36500;58200;59,5;10th Percentile;30700
+Sociology;36500;58200;59,5;25th Percentile;40400
+Sociology;36500;58200;59,5;75th Percentile;81200
+Sociology;36500;58200;59,5;90th Percentile;118000
+Spanish;34000;53100;56,2;10th Percentile;31000
+Spanish;34000;53100;56,2;25th Percentile;40000
+Spanish;34000;53100;56,2;75th Percentile;76800
+Spanish;34000;53100;56,2;90th Percentile;96400
