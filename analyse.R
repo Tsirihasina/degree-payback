@@ -37,7 +37,7 @@ career$`Mid-Career Percentile Salary` <- career$`Mid-Career Percentile Salary` |
 career <- career %>% 
         clean_names()
 
-write_csv2(career, "career.csv")
+write_rds(career, "career.rds")
 
   
   

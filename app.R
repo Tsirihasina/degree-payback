@@ -3,7 +3,7 @@ library(shiny)
 library(shinyWidgets)
 library(shinydashboard)
 
-dt <- read.csv2("career.csv")
+dt <- readRDS("career.rds")
 
 # Define UI for application that draws a histogram
 ui <- dashboardPage(
